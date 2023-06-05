@@ -12,10 +12,16 @@
 
   
 ![image](https://github.com/spectrummmm/LearningUnity/assets/133951457/a1ee40a7-cc7f-45fa-b938-456f99d7ef9e)
-<a textalign = center> <a href="https://assetstore.unity.com/">AssetStore</a>
+<p textalign = center> <a href="https://assetstore.unity.com/">AssetStore</a>
   </p>
 
-Для примера я добавил на страницу максимальное количество разных функций, чтобы протестировать все сразу на деле.
+Затем я приступил к своему проекту. Мое задание заключалось в создании простейшей локации ***"Снежного биома"***. Я решил использовать стилистику ***"LowPoly"*** (вся графика состоит из низко-полигональных обьектов, благодаря чему формируется очень прикольный эффект ( Например в такой стилистике сделаны игры: "The long dark" или "Poly Bridge"))
+
+
+![image](https://github.com/spectrummmm/LearningUnity/assets/133951457/6ff05577-0cb3-4bd2-9738-00139c4fbc43)
+<p textalign = center> Кадр из моей локации</a>
+  </p>
+
 
 ![image](https://github.com/spectrummmm/bebropage/assets/133951457/cc657427-8f99-46fe-86ea-0c6c0b37fadb)
 <p align = center>Тут я использовал таблицу, карточку с товаром, навигацию, окно для пароля, а так же кастомизировал это всё. </p>
